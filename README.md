@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alatinax
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on many different ideas and learn more about coding
+- 📫 How to reach me alatinaxo@outlook.com
