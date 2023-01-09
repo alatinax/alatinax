@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alatinax
+- 👋 Hi, I’m Michelle.
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning various coding languages
 - 💞️ I’m looking to collaborate on many different ideas and learn more about programming
-- 📫 How to reach me alatinax@outlook.com
+- 📫 How to reach me michelle@michellesps.com
